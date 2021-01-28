@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\hangMan_projectW6\hangMan_projectW6\bin\Debug\hangMan_projectW6.exe.config
+c:\users\kidder\documents\visual studio 2012\Projects\hangMan_projectW6\hangMan_projectW6\obj\Debug\hangMan_projectW6.csprojResolveAssemblyReference.cache
+c:\users\kidder\documents\visual studio 2012\Projects\hangMan_projectW6\hangMan_projectW6\bin\Debug\hangMan_projectW6.exe
+c:\users\kidder\documents\visual studio 2012\Projects\hangMan_projectW6\hangMan_projectW6\bin\Debug\hangMan_projectW6.pdb
+c:\users\kidder\documents\visual studio 2012\Projects\hangMan_projectW6\hangMan_projectW6\obj\Debug\hangMan_projectW6.exe
+c:\users\kidder\documents\visual studio 2012\Projects\hangMan_projectW6\hangMan_projectW6\obj\Debug\hangMan_projectW6.pdb
