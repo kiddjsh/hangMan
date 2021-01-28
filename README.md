@@ -1,0 +1,2 @@
+# hangMan
+An application, using a solution algorithm that employs loops, simple data structures, and arrays. The gaming  application displays the input and output for a Hangman program, using my last name as the word to guess. The  application prompts for a letter to be entered, when the letter is entered, it is checked against a list of  valid character data types; if not correct, an error with a letter encryption is displayed; if correct, a message with the letter displays within the letter encryption.
